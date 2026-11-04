@@ -39,6 +39,7 @@ plugins/vianido/
   .mcp.json                         Claude Code MCP server
   plugin.json                       Agent Plugins manifest (Codex, ChatGPT)
   mcp.json                          Agent Plugins MCP server
+  assets/                           Icon shown in plugin listings
   skills/                           Skills, shared by every client
     vianido-search/                 Finding and citing nonprofits
     vianido-profile/                Updating an organization you manage, metrics included

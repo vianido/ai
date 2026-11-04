@@ -1,7 +1,7 @@
 {
   "$schema": "https://agent-plugins.org/schemas/1.0.0/plugin.schema.json",
   "name": "vianido",
-  "version": "2026.11.0",
+  "version": "2026.11.1",
   "description": "Search and research US nonprofits on Vianido from a conversation, and keep the profiles, metrics and About pages of organizations you manage up to date.",
   "author": {
     "name": "Vianido",
@@ -19,7 +19,12 @@
         "developerName": "Vianido",
         "category": "Productivity",
         "websiteURL": "https://vianido.com",
-        "defaultPrompt": "Find nonprofits working on food access in my city on Vianido and compare what they do."
+        "defaultPrompt": "Find nonprofits working on food access in my city on Vianido and compare what they do.",
+        "privacyPolicyURL": "https://vianido.com/privacy",
+        "termsOfServiceURL": "https://vianido.com/terms",
+        "brandColor": "#2F6B43",
+        "composerIcon": "./assets/icon.png",
+        "logo": "./assets/icon.png"
       }
     }
   }

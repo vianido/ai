@@ -10,6 +10,7 @@
   "plugins": [
     {
       "name": "vianido",
+      "displayName": "Vianido",
       "source": "./plugins/vianido",
       "description": "Connects the Vianido MCP server and teaches the agent how to search and research nonprofits, and update the profiles, metrics and About pages of organizations you manage.",
       "category": "productivity"

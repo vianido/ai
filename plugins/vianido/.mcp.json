@@ -1,0 +1,8 @@
+{
+  "mcpServers": {
+    "vianido": {
+      "type": "http",
+      "url": "https://api.vianido.com/mcp"
+    }
+  }
+}

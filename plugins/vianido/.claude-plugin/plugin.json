@@ -1,0 +1,14 @@
+{
+  "name": "vianido",
+  "displayName": "Vianido",
+  "version": "2026.11.0",
+  "description": "Search and research US nonprofits on Vianido from a conversation, and keep the profiles, metrics and About pages of organizations you manage up to date.",
+  "author": {
+    "name": "Vianido",
+    "url": "https://vianido.com"
+  },
+  "homepage": "https://vianido.com",
+  "license": "MIT",
+  "documentationUrl": "https://developer.vianido.com/guides/connect-an-ai-agent",
+  "keywords": ["nonprofit", "charity", "mcp", "profile", "990"]
+}

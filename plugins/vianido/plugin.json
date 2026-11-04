@@ -1,0 +1,26 @@
+{
+  "$schema": "https://agent-plugins.org/schemas/1.0.0/plugin.schema.json",
+  "name": "vianido",
+  "version": "2026.11.0",
+  "description": "Search and research US nonprofits on Vianido from a conversation, and keep the profiles, metrics and About pages of organizations you manage up to date.",
+  "author": {
+    "name": "Vianido",
+    "url": "https://vianido.com"
+  },
+  "homepage": "https://vianido.com",
+  "license": "MIT",
+  "keywords": ["nonprofit", "charity", "mcp", "profile", "990"],
+  "extensions": {
+    "com.openai": {
+      "interface": {
+        "displayName": "Vianido",
+        "shortDescription": "Search and research US nonprofits",
+        "longDescription": "Find nonprofits by name, cause or place, read and compare their Vianido profiles, and cite them, without leaving the conversation. If you manage an organization on Vianido, keep its profile, social links, logo, UN SDGs and metrics up to date, and draft and publish its About page.",
+        "developerName": "Vianido",
+        "category": "Productivity",
+        "websiteURL": "https://vianido.com",
+        "defaultPrompt": "Find nonprofits working on food access in my city on Vianido and compare what they do."
+      }
+    }
+  }
+}

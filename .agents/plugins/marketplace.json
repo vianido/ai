@@ -1,0 +1,20 @@
+{
+  "name": "vianido",
+  "interface": {
+    "displayName": "Vianido"
+  },
+  "plugins": [
+    {
+      "name": "vianido",
+      "source": {
+        "source": "local",
+        "path": "./plugins/vianido"
+      },
+      "policy": {
+        "installation": "AVAILABLE",
+        "authentication": "ON_INSTALL"
+      },
+      "category": "Productivity"
+    }
+  ]
+}

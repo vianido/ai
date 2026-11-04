@@ -1,7 +1,7 @@
 {
   "$schema": "https://agent-plugins.org/schemas/1.0.0/plugin.schema.json",
   "name": "vianido",
-  "version": "2026.11.1",
+  "version": "2026.11.2",
   "description": "Search and research US nonprofits on Vianido from a conversation, and keep the profiles, metrics and About pages of organizations you manage up to date.",
   "author": {
     "name": "Vianido",

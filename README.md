@@ -1,8 +1,6 @@
 # Vianido AI plugin
 
-Connects AI agents to [Vianido](https://vianido.com), the public record of US nonprofits. The plugin adds the Vianido MCP server (`https://api.vianido.com/mcp`) and skills that explain how to use it: finding nonprofits, managing an organization's profile and About page, and writing its profile text.
-
-With it, an agent can find nonprofits by name, cause or place, read and compare their profiles, and cite them, instead of you browsing the website. If you manage an organization on Vianido, it can also keep that organization's profile, social links, logo, UN SDGs and metrics up to date, add images to its media library, and draft and publish its About page. Sign-in uses your Vianido account through OAuth; the plugin holds no keys.
+This repository publishes the Vianido plugin, which connects AI agents to [Vianido](https://vianido.com), the public record of US nonprofits, through the Vianido MCP server (`https://api.vianido.com/mcp`) and skills that explain how to use it. What the plugin does and what each skill covers: [plugins/vianido/README.md](plugins/vianido/README.md).
 
 Full documentation: [Connect an AI agent](https://developer.vianido.com/guides/connect-an-ai-agent).
 
@@ -37,6 +35,7 @@ Add a remote MCP server with streamable HTTP transport at `https://api.vianido.c
 plugins/vianido/
   .claude-plugin/plugin.json        Claude Code manifest
   .mcp.json                         Claude Code MCP server
+  README.md                         Plugin description, used for directory listings
   plugin.json                       Agent Plugins manifest (Codex, ChatGPT)
   mcp.json                          Agent Plugins MCP server
   assets/                           Icon shown in plugin listings
@@ -44,6 +43,7 @@ plugins/vianido/
     vianido-search/                 Finding and citing nonprofits
     vianido-profile/                Updating an organization you manage, metrics included
     vianido-about-page/             Drafting and publishing its About page
+    vianido-updates/                Posting and managing its updates
     vianido-writing/                Writing profile text that is specific and true
 ```
 

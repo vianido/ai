@@ -5,7 +5,7 @@ description: Update the Vianido profile of an organization the user manages with
 
 # Managing a profile
 
-Changes go live as soon as they are written. For writing profile content, also follow `vianido-writing`; for the About page, follow `vianido-about-page`.
+Changes go live as soon as they are written. For writing profile content, also follow `vianido-writing`; for the About page, follow `vianido-about-page`; for updates, follow `vianido-updates`.
 
 ## Start
 
@@ -49,7 +49,7 @@ Uploading needs you to read the file and send it over HTTP yourself. Without a s
 
 ## Not available here
 
-Causes, updates, answers to questions, replies to reviews and voices are edited on the Vianido website. Videos are uploaded there too. Say so rather than using another field.
+Causes, answers to questions, replies to reviews and voices are edited on the Vianido website. Say so rather than using another field.
 
 ## Keep it current
 

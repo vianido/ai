@@ -5,14 +5,14 @@
     "url": "https://vianido.com"
   },
   "metadata": {
-    "description": "Vianido's MCP server and skills for AI agents that search and research US nonprofits, and keep organization profiles and About pages up to date."
+    "description": "Vianido's MCP server and skills for AI agents that search and research US nonprofits, and keep organization profiles, About pages and updates up to date."
   },
   "plugins": [
     {
       "name": "vianido",
       "displayName": "Vianido",
       "source": "./plugins/vianido",
-      "description": "Connects the Vianido MCP server and teaches the agent how to search and research nonprofits, and update the profiles, metrics and About pages of organizations you manage.",
+      "description": "Connects the Vianido MCP server and teaches the agent how to search and research nonprofits, and update the profiles, metrics, About pages and updates of organizations you manage.",
       "category": "productivity"
     }
   ]

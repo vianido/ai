@@ -1,6 +1,6 @@
 ---
 name: vianido-search
-description: Find and research US nonprofits with the Vianido MCP tools, and cite them. Use when the user asks about nonprofits or charities and the Vianido tools are connected.
+description: Find and research nonprofits with the Vianido MCP tools, and cite them. Use when the user asks about nonprofits or charities and the Vianido tools are connected.
 ---
 
 # Finding nonprofits

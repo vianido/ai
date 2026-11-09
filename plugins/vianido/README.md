@@ -1,10 +1,10 @@
 # Vianido
 
-Connect your AI assistant to [Vianido](https://vianido.com), the public record of US nonprofits, and ask it about nonprofits in plain words. For example, it can:
+Most nonprofits can't afford to be found. Vianido gives nonprofits everywhere one place to share their work and talk with their supporters. Connect your AI assistant to [Vianido](https://vianido.com) to find them and ask about them in plain words. For example, it can:
 
 - find food banks or youth programs in a city, or nonprofits working on a cause;
 - read their profiles and compare them, such as their missions, causes and where they work;
-- keep your organization's profile, About page and updates current, if you manage one on Vianido, checking each change with you first.
+- keep your organization's profile current and post its updates, if you manage one on Vianido.
 
 The plugin adds the Vianido MCP server and skills that teach the assistant to use it well. You sign in to Vianido and approve the connection once. After that the assistant works for you, with your account.
 

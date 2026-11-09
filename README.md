@@ -1,6 +1,6 @@
 # Vianido AI plugin
 
-This repository publishes the Vianido plugin, which connects AI agents to [Vianido](https://vianido.com), the public record of US nonprofits, through the Vianido MCP server (`https://api.vianido.com/mcp`) and skills that explain how to use it. What the plugin does and what each skill covers: [plugins/vianido/README.md](plugins/vianido/README.md).
+This repository publishes the Vianido plugin, which connects AI agents to [Vianido](https://vianido.com) through the Vianido MCP server (`https://api.vianido.com/mcp`) and skills that explain how to use it. What the plugin does and what each skill covers: [plugins/vianido/README.md](plugins/vianido/README.md).
 
 Full documentation: [Connect an AI agent](https://developer.vianido.com/guides/connect-an-ai-agent).
 

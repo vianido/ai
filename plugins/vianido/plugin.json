@@ -1,8 +1,8 @@
 {
   "$schema": "https://agent-plugins.org/schemas/1.0.0/plugin.schema.json",
   "name": "vianido",
-  "version": "2026.11.3",
-  "description": "Search and research US nonprofits on Vianido from a conversation, and keep the profiles, metrics, About pages and updates of organizations you manage up to date.",
+  "version": "2026.11.4",
+  "description": "Find nonprofits and read what they're working on, from the AI assistant you already use. If you manage one on Vianido, keep its profile current and post its updates.",
   "author": {
     "name": "Vianido",
     "url": "https://vianido.com"
@@ -14,8 +14,8 @@
     "com.openai": {
       "interface": {
         "displayName": "Vianido",
-        "shortDescription": "Search and research US nonprofits",
-        "longDescription": "Find nonprofits by name, cause or place, read and compare their Vianido profiles, and cite them, without leaving the conversation. If you manage an organization on Vianido, keep its profile, social links, logo, UN SDGs and metrics up to date, draft and publish its About page, and post its updates.",
+        "shortDescription": "Search and research nonprofits",
+        "longDescription": "Most nonprofits can't afford to be found. Vianido gives them one place to share their work and talk with supporters. With this plugin, your AI assistant can find nonprofits, read and compare their Vianido profiles, and link to them. If you manage an organization on Vianido, it can keep the profile current and post its updates for you.",
         "developerName": "Vianido",
         "category": "Productivity",
         "websiteURL": "https://vianido.com",

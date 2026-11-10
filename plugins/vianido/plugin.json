@@ -1,7 +1,7 @@
 {
   "$schema": "https://agent-plugins.org/schemas/1.0.0/plugin.schema.json",
   "name": "vianido",
-  "version": "2026.11.4",
+  "version": "2026.11.5",
   "description": "Find nonprofits and read what they're working on, from the AI assistant you already use. If you manage one on Vianido, keep its profile current and post its updates.",
   "author": {
     "name": "Vianido",

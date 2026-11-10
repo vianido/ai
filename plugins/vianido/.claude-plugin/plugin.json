@@ -1,13 +1,14 @@
 {
   "name": "vianido",
   "displayName": "Vianido",
-  "version": "2026.11.4",
+  "version": "2026.11.5",
   "description": "Find nonprofits and read what they're working on, from the AI assistant you already use. If you manage one on Vianido, keep its profile current and post its updates.",
   "author": {
     "name": "Vianido",
     "url": "https://vianido.com"
   },
   "homepage": "https://vianido.com",
+  "repository": "https://github.com/vianido/ai",
   "license": "MIT",
   "documentationUrl": "https://developer.vianido.com/guides/connect-an-ai-agent",
   "keywords": ["nonprofit", "charity", "mcp", "profile", "990"],
